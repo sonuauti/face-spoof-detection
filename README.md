@@ -10,5 +10,5 @@ Face spoof detection in biometric facial recognition using Image Distortion Anal
   ![ScreenShot](https://github.com/sonuauti/face-spoof-detection/blob/master/app/src/main/res/drawable/fake.png)
   
   
+  [1.1]: http://i.imgur.com/tXSoThF.png (http://twitter.com/sonuauti)
   
-   Follow on twitter @sonuauti | github /@sonuauti | instagram @matki_paw
