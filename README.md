@@ -1,5 +1,5 @@
 # Face Spoof Detection in real time Face Recognition
-Face spoof detection in biometric facial recognition using Image Distortion Analysis
+Face spoof detection in face recognition systems using Image Distortion Analysis
 
 - Binary classifier (SVM) is used to detect real and fake faces
 - Pre trained Famous Cascading classifier is used to detect faces over input frames
