@@ -12,3 +12,4 @@ Face spoof detection in face recognition systems using Image Distortion Analysis
   
   Follow me on [http://twitter.com/sonuauti]
   
+  Apache License Version 2.0, January 2004, for more details read LICENSE file
